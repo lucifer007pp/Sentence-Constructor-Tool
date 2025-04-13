@@ -1,8 +1,8 @@
-Sentence Construction Game
+# Sentence Construction Game
 
 A fun and interactive Sentence Construction Game built with React, Tailwind CSS, and Vite. Test your language skills by completing sentences with the correct words within a 30-second time limit. The game includes features like a countdown timer, dynamic word selection, answer feedback, score tracking, and an enjoyable confetti celebration.
 
-📋 Features
+##📋 Features
 Interactive Word Selection: Select words to fill in the blanks of a sentence.
 
 30-Second Timer: Each question comes with a countdown timer to challenge your speed and accuracy.
@@ -19,7 +19,7 @@ Light/Dark Mode: Toggle between light and dark modes for a personalized experien
 
 LocalStorage Support: Your quiz results and scores are saved and accessible for future reference.
 
-⚡️ Installation Guide
+##⚡️ Installation Guide
 Prerequisites
 Make sure you have the following installed on your system:
 
@@ -27,26 +27,26 @@ Node.js (version 14 or higher)
 
 npm (Node Package Manager)
 
-1. Clone the repository
+# 1. Clone the repository
 bash
 Copy
 Edit
 git clone https://github.com/yourusername/sentence-construction-game.git
 cd sentence-construction-game
-2. Install dependencies
+# 2. Install dependencies
 Run the following command to install all required packages:
 
 bash
 Copy
 Edit
 npm install
-3. Start the development server
+# 3. Start the development server
 bash
 Copy
 Edit
 npm run dev
 Once the server is running, open your browser and navigate to http://localhost:5173 to start playing!
-🔧 Technologies Used
+## 🔧 Technologies Used
 React: A JavaScript library for building user interfaces.
 
 Tailwind CSS: A utility-first CSS framework for rapid, responsive UI development.
@@ -55,7 +55,7 @@ Vite: A blazing-fast build tool and development server for modern web projects.
 
 Canvas Confetti: A simple JavaScript library for creating celebratory confetti animations.
 
-🎮 Game Instructions
+z## 🎮 Game Instructions
 Start the Game: Click the "Start Quiz" button to begin the game.
 
 Word Selection: From the available word options, select the correct words to fill in the sentence blanks.
@@ -68,7 +68,7 @@ Final Score: Once the game ends, your score will be displayed, along with a star
 
 Confetti Celebration: If you score 60% or more, enjoy a fun confetti animation to celebrate your success!
 
-📝 How to Contribute
+## 📝 How to Contribute
 We welcome contributions! If you'd like to improve or add new features to the game, please follow these steps:
 
 Fork the repository.
@@ -99,7 +99,7 @@ Edit
 git push origin feature-branch
 Open a Pull Request to the original repository with a description of your changes.
 
-🌟 Acknowledgments
+## 🌟 Acknowledgments
 React: A powerful library for building user interfaces.
 
 Tailwind CSS: A utility-first CSS framework that enables rapid UI development.
